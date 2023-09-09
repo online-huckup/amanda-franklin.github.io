@@ -1,0 +1,29 @@
+@media only screen and (max-width: 600px) {
+    .p-picture {
+        width: 45%;
+        left: 27.5%;
+        right: 27.5%;
+    }
+    .name-section{
+        margin-top: 135px;
+    }
+    .dag {
+        margin-top: 0px;
+    }
+    .pictures {
+        width: 47%;
+    }
+    .bar-section {
+        margin-top: 22px;
+    }
+    .flazbox {
+        margin-top: 40px;
+    }
+    .see-more {
+        margin-top: 11px;
+    }
+    .bar-section {
+        margin-top: 27px;
+    }
+    
+}
